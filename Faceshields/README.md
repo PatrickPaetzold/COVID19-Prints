@@ -1,14 +1,14 @@
-# Printable Faceshields
+# {EN} Printable Faceshields
 
 These shields are a stacked varitaion of https://3dverkstan.se/protective-visor/. I did not do the original design. This version is the european version for A6 hole punchers.
 
 # How to use:
-1. Print the parts (the stacked version might be hard to print due to stringing and hard to place support).
+1. Print the parts (the stacked version is hard to print due to stringing and hard to place support).
 2. Set your hole puncher to DIN A6.
-3. On one long side of the A4 plastic sheet punch holes from both short. You have to flip the sheet therefore once.
+3. On one long side of the A4 plastic sheet punch holes from both short sides. You have to flip the sheet therefore once.
 
 
-# Druckbarer Gesichtsschutz
+# {DE} Druckbare Gesichtsfolienhalter
 
 Die Gesichtsschilde sind eine Variation von https://3dverkstan.se/protective-visor/. Ich habe die Orginale nicht designt. Es handelt sich um die Europäische version für A6 Locher.
 
