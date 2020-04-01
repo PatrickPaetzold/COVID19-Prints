@@ -15,4 +15,6 @@ Die Gesichtsschilde sind eine Variation von https://3dverkstan.se/protective-vis
 # Benutzung:
 1. Drucke die Teile (die gestaplete Verision ist schwierig zu drucken, da es durch Stringing und schwierig zu platzierendem Support leicht zu Fehldrucken kommt).
 2. Stelle den Locher auf DIN A6 sein.
-3. Loch die langen Seite einer A4 Plastikfolie jeweils von der beiden kurzen Seiten her. Die Plastikfolie muss dafür einmal gewendet werden.
+![Lochnung an langer Seite](/Faceshields/images/IMG_8649.jpg)
+3. Loch die langen Seite einer A4 Plastikfolie jeweils von der beiden kurzen Seiten her. Die Plastikfolie muss dafür einmal gewendet werden. ![Lochnung an langer Seite](/Faceshields/images/IMG_8650.jpg)
+4. Endresultat ![Lochnung an langer Seite](/Faceshields/images/IMG_8652.jpg)
