@@ -1,6 +1,6 @@
 Deutsche Beschreibung unten.
 
-# {EN} Printable Faceshields
+# {EN} makeshift Printable Faceshields (no medical product!)
 
 These shields are a stacked varitaion of https://3dverkstan.se/protective-visor/. I did not do the original design. This version is the european version for A6 hole punchers.
 
@@ -10,7 +10,7 @@ These shields are a stacked varitaion of https://3dverkstan.se/protective-visor/
 3. On one long side of the A4 plastic sheet punch holes from both short sides. You have to flip the sheet therefore once. ![Holes from 2nd short side](/Faceshields/images/IMG_8650.jpg)
 4. Result ![Result](/Faceshields/images/IMG_8652.jpg)
 
-# {DE} Druckbare Gesichtsfolienhalter
+# {DE} Druckbare Behelfs-Gesichtsschilde (kein Medizinprodukt!)
 
 Die Gesichtsschilde sind eine Variation von https://3dverkstan.se/protective-visor/. Ich habe die Orginale nicht designt. Es handelt sich um die Europäische version für A6 Locher.
 
